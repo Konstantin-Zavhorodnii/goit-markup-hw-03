@@ -301,7 +301,7 @@ border-radius: 0px 0px 4px 4px; }
   border-left: 1px solid var(--border-color-porfolio-items);
   border-bottom: 1px solid var(--border-color-porfolio-items);
   border-right: 1px solid var(--border-color-porfolio-items);
-  background-color: var(--bcg-color-portfolio-product) ;
+  background-color: var(--bcg-color-portfolio-product);
 }
 .portfolio-img {
   display: block;
